@@ -1,3 +1,3 @@
 # SkipButton
 SkipButton
-![Screenshot](preview.png)
+![Screenshot](Preview.png)
